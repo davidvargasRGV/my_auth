@@ -8,12 +8,12 @@ Using bloc for authentication and navigation
 
 Login View
 
-![login view](./doc/screenshots/login.png)
+<img src="./doc/screenshots/login.png" alt="login view" style="max-width: 50%" />
 
 Unlocked View
 
-![unlocked view](./doc/screenshots/unlocked.png)
+<img src="./doc/screenshots/unlocked.png" alt="unlocked view" style="max-width: 50%" />
 
 Locked View
 
-![locked view](./doc/screenshots/locked.png)
+<img src="./doc/screenshots/locked.png" alt="locked view" style="max-width: 50%" />
