@@ -8,12 +8,12 @@ Using bloc for authentication and navigation
 
 Login View
 
-<img src="./doc/screenshots/login.png" alt="login view" style="max-width: 50%" />
+<img src="./doc/screenshots/login.png" alt="login view" width="540" />
 
 Unlocked View
 
-<img src="./doc/screenshots/unlocked.png" alt="unlocked view" style="max-width: 50%" />
+<img src="./doc/screenshots/unlocked.png" alt="unlocked view" width="540" />
 
 Locked View
 
-<img src="./doc/screenshots/locked.png" alt="locked view" style="max-width: 50%" />
+<img src="./doc/screenshots/locked.png" alt="locked view" width="540" />
