@@ -1,4 +1,4 @@
-name: my_auth
+name: my_app
 description: A new Flutter project.
 
 # The following line prevents the package from being accidentally published to
@@ -32,6 +32,17 @@ dependencies:
   flutter:
     sdk: flutter
 
+  # Simple direct Service Locator that allows to decouple the interface from a concrete implementation and to access the concrete implementation from everywhere in your App
+  get_it: ^7.2.0
+
+  # A predictable state management library that helps implement the BLoC (Business Logic Component) design pattern.
+  bloc: ^8.0.3
+
+  # Flutter Widgets that make it easy to implement the BLoC (Business Logic Component) design pattern.
+  flutter_bloc: ^8.0.1
+
+  # The Font Awesome Icon pack available as Flutter Icons. Provides 1600 additional icons to use in your apps.
+  font_awesome_flutter: ^10.2.1
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
